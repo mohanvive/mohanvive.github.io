@@ -1,8 +1,8 @@
 ---
 redirect_from:
-  - /siddhi
-  - /siddhi/
-redirect_to: https://siddhi-io.github.io/siddhi/
+  - /www
+  - /www/
+redirect_to: https://suhothayan.github.io/www/en/v5%2E0/
 ---
 
 
